@@ -884,6 +884,10 @@ img {
         width: 32px;
         height: auto;
     }
+
+    .tooltiptext-general {
+        padding: 3px;
+    }
 }
 
 /* Large Screens (1200px - 1599px) */
