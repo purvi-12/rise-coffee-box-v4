@@ -490,6 +490,7 @@ img {
 .tooltiptext-general {
     left: 60%;
     bottom: 60%;
+    padding: 3px;
 }
 
 .tooltiptext-one {
